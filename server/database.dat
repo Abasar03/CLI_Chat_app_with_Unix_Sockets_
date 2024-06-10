@@ -1,0 +1,26 @@
+{
+  "channels": {
+    "columns": [
+      {
+        "name": "channelName",
+        "type": "text"
+      },
+      {
+        "name": "clientId",
+        "type": "text"
+      },
+      {
+        "name": "message",
+        "type": "text"
+      }
+    ],
+    "name": "channels",
+    "rows": [
+      [
+        "bct",
+        "4",
+        "hi"
+      ]
+    ]
+  }
+}

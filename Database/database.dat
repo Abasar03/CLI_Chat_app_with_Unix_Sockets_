@@ -1,0 +1,79 @@
+{
+  "channels": {
+    "columns": [
+      {
+        "name": "channelName",
+        "type": "text"
+      },
+      {
+        "name": "clientId",
+        "type": "text"
+      },
+      {
+        "name": "message",
+        "type": "text"
+      }
+    ],
+    "name": "channels",
+    "rows": [
+      [
+        "cd",
+        "5",
+        "hi"
+      ],
+      [
+        "cd",
+        "4",
+        "hello"
+      ],
+      [
+        "rma",
+        "4",
+        "rma is the best club in the club."
+      ],
+      [
+        "rma",
+        "6",
+        "there is no doubt"
+      ]
+    ]
+  },
+  "t6": {
+    "columns": [
+      {
+        "name": "c2",
+        "type": "text"
+      },
+      {
+        "name": "c3",
+        "type": "text"
+      }
+    ],
+    "name": "t6",
+    "rows": [
+      [
+        "\"hi\",",
+        "\"hi\""
+      ]
+    ]
+  },
+  "tab7": {
+    "columns": [
+      {
+        "name": "c2",
+        "type": "text"
+      },
+      {
+        "name": "c3",
+        "type": "text"
+      }
+    ],
+    "name": "tab7",
+    "rows": [
+      [
+        "hi,",
+        "hi"
+      ]
+    ]
+  }
+}
